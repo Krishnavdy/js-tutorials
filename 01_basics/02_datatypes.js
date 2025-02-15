@@ -26,3 +26,5 @@ let state;
 
 console.log(typeof undefined) //undefined
 console.log(typeof null) //object
+
+//assignment => go check some specification of above datatypes
