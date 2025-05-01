@@ -1,7 +1,7 @@
 const accountid = 14456
 let accountemail ="krishna@gamil.com"
 var accountpassword ="12563" 
-accountcity ="gaziabadi" 
+accountcity ="gaziabad" 
 let accountstate;
 
 // accountid =2556 - not allowed
